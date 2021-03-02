@@ -8,8 +8,11 @@ $module = "Web Development and Databases" ;
 
 // PHP portion
 // your code goes here
+echo "Course Information";
 echo "Dept: $dept <br>";
-echo "Year $year"
+echo "Year $year <br>";
+echo "Semester: $sem <br>";
+echo "Module: $module <br>";
 ?>
 
 
